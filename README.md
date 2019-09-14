@@ -14,6 +14,6 @@ has not changed, cacheSolve retrieves and returns the inverse from the cache.
 
 ### Deviation from coding norms
 
-I prefer to put the start of a block "{" on its own line, rather than the
+I prefer to put the start of a block ( "{" ) on its own line, rather than the
 previous line. I find that it's easier to check that each open brace has a
 matching closing brace when they are both in the same column.
