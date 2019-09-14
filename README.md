@@ -12,6 +12,11 @@ The function, `cacheSolve`, computes the inverse of the special "matrix"
 returned by makeCacheMatrix. If the inverse has been computed, and the matrix
 has not changed, cacheSolve retrieves and returns the inverse from the cache.
 
+### Testing
+
+I created the file Programming Assignment2 test.txt so that I can copy the
+commands necessary to create a "random" matrix and find its inverse.
+
 ### Deviation from coding norms
 
 I prefer to put the start of a block ( "{" ) on its own line, rather than the
