@@ -1,0 +1,9 @@
+rm(list = ls())
+setwd("/git/ProgrammingAssignment2/")
+source("cachematrix.R")
+set.seed(42)
+x <- makeCacheMatrix(matrix(sample(-100:100, 100, replace = FALSE), nrow = 10, ncol = 10))
+y <- cacheSolve(x)
+y
+y <- cacheSolve(x)
+y
